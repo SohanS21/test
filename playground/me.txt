@@ -1,5 +1,0 @@
-{{#user}}
-Name: Sohan Singh
-Skills: HTML, CSS, JS, Next.js
-Email: crownsohan21@gmail.com
-{{/user}}
